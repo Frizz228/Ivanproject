@@ -44,8 +44,8 @@ The page includes:
 
 **👤 Ivan Tulin**  
 📍 *Riga, Latvia*  
-📧 [ivanstulins7@gmail.com](mailto:ivanstulins7@gmail.com)  
-📞 +371 20040029  
+📧 [ivanstulins228@gmail.com](mailto:ivanstulins7@gmail.com)  
+📞 +371 20090029  
 
 ---
 
