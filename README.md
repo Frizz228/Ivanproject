@@ -28,7 +28,7 @@ amongusik-website/
 
 ## 🚀 Overview
 
-🌐 A simple, elegant **single-page website** built using **HTML5** and **CSS3**.  
+🌐 A simple, elegant **single-page website** built using **HTML** and **CSS**.  
 It combines a **personal portfolio** and a **product landing page** for the Amongusik Smart Fitness Band.  
 
 The page includes:
